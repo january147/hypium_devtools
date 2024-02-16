@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hypium:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hypium_jar</output-path>
+    <root id="archive" name="hypium.jar" />
+  </artifact>
+</component>
